@@ -29,7 +29,7 @@ How to Use the App:
 
 Steps For Making A New Random Cover:
 1. From main load page, click on the button labeled "Show New Random Cover"
-- When button is clicked, The cover will load and automate a random book cover with different cover picture, title, and description.
+  - NOTE: When button is clicked, The cover will load and automate a random book cover with different cover picture, title, and description.
 2. If user likes their cover and decides to keep it, they will be able to by clicking the "Save Cover" button.
 3. If user wants to create a different cover, User will be able to do so by clicking the "Show new Random Cover" to cycle through random covers.
 
