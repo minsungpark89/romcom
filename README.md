@@ -50,5 +50,5 @@ Steps for Creating a Custom Cover:
 3. User will be allowed to input text into four differently labed input boxes labeled from top to bottom "Cover, Title, First Descriptor, Second Desriptor"
   - NOTE: User will only be allowed to display an image in the Cover field-box with an image that has a       URL.
 4. Once all field-boxes have text inputted that meets the user's needs, User will then click the "Make my book" button.
-5. User will then be redirected back to the main page and the custoom created cover should be visible.
+5. User will then be redirected back to the main page and the custom created cover should be visible.
 6. User will also be able to navigate the web application with the menu buttons at the top of the page.
